@@ -11,6 +11,12 @@ public class ejercicio1 {
         System.out.print("Ingrese un número: ");
         int numero = scanner.nextInt();
 
+        // Ingresar la ubicación
+        System.out.print("Ingrese la fila (0-4): ");
+        int fila = scanner.nextInt();
+        System.out.print("Ingrese la columna (0-4): ");
+        int columna = scanner.nextInt();
+
        
     }
 }
